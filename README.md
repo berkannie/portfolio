@@ -8,4 +8,4 @@ My name is Annie Pan and I am an incoming freshman and SEED Scholar at UC Berkel
 ## Contact Me
 <iframe> linkedin.com/in/annie-pannn)
  
-<iframe src="https://open.spotify.com/embed/playlist/1VWXz1LCzhaymfpB2Xa9GI?utm_source=generator" width="20%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/1VWXz1LCzhaymfpB2Xa9GI?utm_source=generator" width="20%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
