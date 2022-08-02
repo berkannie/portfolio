@@ -1,12 +1,7 @@
-## Welcome to GitHub Pages
+* ## Annie Pan *
 
-You can use the [editor on GitHub](https://github.com/pananniee/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* ### Bio *
+My name is Annie Pan and I am an incoming freshman and SEED Scholar at UC Berkeley. I am double majoring in applied mathematics and chemistry in the College of Letters and Science.
 
 ```markdown
 Syntax highlighted code block
