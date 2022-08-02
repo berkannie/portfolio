@@ -3,6 +3,8 @@
 ### Bio
 My name is Annie Pan and I am an incoming freshman and SEED Scholar at UC Berkeley. I am double majoring in applied mathematics and chemistry in the College of Letters and Science.
 
+ <img src="./prof headshot.jpg" style="width:50%; margin:auto; display:block">
+
 ```markdown
 Syntax highlighted code block
 
